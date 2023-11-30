@@ -1,4 +1,4 @@
-# MIT Calculus Course
+# MIT Probability Course
 
 ## 课程简介
 
